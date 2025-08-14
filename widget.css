@@ -26,3 +26,7 @@
 .b-start__field .b-select-ghost {
     color: #222831 !important;
 }
+
+.b-start {
+    background-color: red !important;
+}
