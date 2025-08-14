@@ -10,7 +10,7 @@
 }
 
 /* Основная кнопка "Искать" */
-.b-start.s-btn--primary {
+.s-btn--primary {
     font-family: 'Damn', Arial, sans-serif;
     border-radius: 10px !important;   /* Скруглённые углы */
     padding: 12px 32px !important;    /* Отступы */
@@ -38,5 +38,5 @@
 
 .b-start__field-label {
     font-family: 'Manrop', Arial, sans-serif !important;
-    font-size: 12px !important; 
+    font-size: 16px !important; 
 }
