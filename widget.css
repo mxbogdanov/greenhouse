@@ -1,6 +1,6 @@
 /* https://mxbogdanov.github.io/greenhouse/widget.css */
 
-.b-start {
+.l-main-container, .b-start {
     background-color: #f6f6f6 !important;
     border: 0 !important;        /* = border: none */
     box-shadow: none !important;  /* многие библиотеки имитируют «бордер» тенями */
