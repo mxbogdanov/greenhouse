@@ -1,5 +1,6 @@
 .b-start {
     background-color: #f6f6f6 !important;
+    border-radius: 35px !important;   /* Скруглённые углы */
     border: 1px solid #222831 !important; /* Цвет рамки */
 }
 
