@@ -28,3 +28,12 @@
     color: #222831 !important;        /* Цвет текста */
     transition: all 0.3s ease-in-out;
 }
+
+a.ui-state-active {
+    border-radius: 10px !important;   /* Скруглённые углы */
+    padding: 12px 32px !important;    /* Отступы */
+    font-size: 16px !important;       /* Размер шрифта */
+    background-color: #1e5128 !important; /* Белый фон */
+    color: #f6f6f6 !important;        /* Цвет текста */
+    transition: all 0.3s ease-in-out;
+}
