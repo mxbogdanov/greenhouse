@@ -11,13 +11,11 @@
 
 /* Основная кнопка "Искать" */
 .s-btn--primary {
-    border-radius: 35px !important;   /* Скруглённые углы */
-    border: 1px solid #222831 !important; /* Цвет рамки */
+    border-radius: 10px !important;   /* Скруглённые углы */
     padding: 12px 32px !important;    /* Отступы */
     font-size: 16px !important;       /* Размер шрифта */
-    font-weight: 600 !important;      /* Толщина шрифта */
-    background-color: #ffffff !important; /* Белый фон */
-    color: #222831 !important;        /* Цвет текста */
+    background-color: #1e5128 !important; /* Белый фон */
+    color: #f6f6f6 !important;        /* Цвет текста */
     transition: all 0.3s ease-in-out;
 }
 
@@ -26,7 +24,6 @@
     border: 1px solid #222831 !important; /* Цвет рамки */
     padding: 12px 32px !important;    /* Отступы */
     font-size: 16px !important;       /* Размер шрифта */
-    font-weight: 600 !important;      /* Толщина шрифта */
     background-color: #ffffff !important; /* Белый фон */
     color: #222831 !important;        /* Цвет текста */
     transition: all 0.3s ease-in-out;
