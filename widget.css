@@ -35,3 +35,8 @@
     background-color: #1e5128 !important; /* Белый фон */
     color: #f6f6f6 !important;        /* Цвет текста */
 }
+
+.b-start__field-label {
+    font-family: 'Manrop', Arial, sans-serif !important;
+    font-size: 12px !important; 
+}
