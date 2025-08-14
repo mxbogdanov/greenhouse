@@ -19,18 +19,13 @@
     transition: all 0.3s ease-in-out;
 }
 
-/* Ховер-эффект */
-.s-btn.s-btn--primary:hover {
-    background-color: #222831 !important;
-    color: #ffffff !important;
+.b-select-ghost {
+    border-radius: 35px !important;   /* Скруглённые углы */
+    border: 1px solid #222831 !important; /* Цвет рамки */
+    padding: 12px 32px !important;    /* Отступы */
+    font-size: 16px !important;       /* Размер шрифта */
+    font-weight: 600 !important;      /* Толщина шрифта */
+    background-color: #ffffff !important; /* Белый фон */
+    color: #222831 !important;        /* Цвет текста */
+    transition: all 0.3s ease-in-out;
 }
-
-/* Поднимаем блок с кнопкой выше */
-.b-start__submit-field {
-    margin-top: -15px !important;
-}
-
-.b-start__field .b-select-ghost {
-    color: #222831 !important;
-}
-
