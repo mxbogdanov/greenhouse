@@ -1,7 +1,7 @@
 /* === Стили для кнопки бронирования === */
 
 /* Основная кнопка "Искать" */
-.s-btn.s-btn--primary {
+.s-btn--primary {
     border-radius: 35px !important;   /* Скруглённые углы */
     border: 2px solid #222831 !important; /* Цвет рамки */
     padding: 12px 32px !important;    /* Отступы */
@@ -21,4 +21,8 @@
 /* Поднимаем блок с кнопкой выше */
 .b-start__submit-field {
     margin-top: -15px !important;
+}
+
+.b-start__field .b-select-ghost {
+    color: #222831 !important;
 }
