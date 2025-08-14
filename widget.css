@@ -2,7 +2,9 @@
 
 .b-start {
     background-color: #f6f6f6 !important;
-    border: none !important;   /* Убираем рамку */
+    border: 0 !important;        /* = border: none */
+    box-shadow: none !important;  /* многие библиотеки имитируют «бордер» тенями */
+    outline: none !important;     /* убирает системный фокус (см. заметку ниже) */
     font-family: 'Manrop', Arial, sans-serif !important;
     font-size: 12px !important;
 }
@@ -20,7 +22,7 @@
 }
 
 .b-select-ghost {
-    border-radius: 35px !important;   /* Скруглённые углы */
+    border-radius: 10px !important;   /* Скруглённые углы */
     border: 1px solid #222831 !important; /* Цвет рамки */
     padding: 12px 32px !important;    /* Отступы */
     font-size: 16px !important;       /* Размер шрифта */
