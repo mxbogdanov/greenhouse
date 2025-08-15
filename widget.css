@@ -66,6 +66,7 @@ div.l-main-container {
     font-size: 12px !important;
 }
 
-div.b-result-item__name-holder {
+div.b-result-item__name-holder, div.b-input-spinner {
     border-radius: 10px !important;   /* Скруглённые углы */
 }
+
