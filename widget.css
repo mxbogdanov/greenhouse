@@ -65,3 +65,7 @@ div.l-main-container {
     font-family: 'Manrop', Arial, sans-serif !important;
     font-size: 12px !important;
 }
+
+div.b-result-item__name-holder {
+    border-radius: 10px !important;   /* Скруглённые углы */
+}
