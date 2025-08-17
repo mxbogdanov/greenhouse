@@ -1,5 +1,118 @@
 /* https://literate-willingly-rattler.ngrok-free.app/webhook/widget.css */
 
+
+@font-face {
+    font-family: 'Damn';
+    src: url('https://static.tildacdn.com/tild3735-6538-4530-b931-303061326165/DAMN.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap
+}
+
+@font-face {
+    font-family: 'Damn';
+    src: url('https://static.tildacdn.com/tild3837-3162-4961-a662-653238646161/DAMN.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap
+}
+
+@font-face {
+    font-family: 'Damn';
+    src: url('https://static.tildacdn.com/tild3036-3337-4863-b265-366262356464/DAMN.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap
+}
+
+@font-face {
+    font-family: 'Damn';
+    src: url('https://static.tildacdn.com/tild3033-6635-4261-a461-386433383534/DAMN.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap
+}
+
+@font-face {
+    font-family: 'Damn';
+    src: url('https://static.tildacdn.com/tild3062-3362-4030-b661-613564323864/DAMN.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap
+}
+
+@font-face {
+    font-family: 'Manrop';
+    src: url('https://static.tildacdn.com/tild3466-3138-4566-b236-376566373363/Manrope-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap
+}
+
+@font-face {
+    font-family: 'Manrop';
+    src: url('https://static.tildacdn.com/tild3661-6237-4265-b738-646364633536/Manrope-Light.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap
+}
+
+@font-face {
+    font-family: 'Manrop';
+    src: url('https://static.tildacdn.com/tild6339-3861-4835-b530-646230303833/Manrope-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap
+}
+
+@font-face {
+    font-family: 'Manrop';
+    src: url('https://static.tildacdn.com/tild3936-3434-4663-b037-633936323637/Manrope-Regular.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap
+}
+
+@font-face {
+    font-family: 'Manrop';
+    src: url('https://static.tildacdn.com/tild3739-3639-4132-b461-613433643437/Manrope-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap
+}
+
+@font-face {
+    font-family: 'Manrop';
+    src: url('https://static.tildacdn.com/tild6431-3438-4865-a632-386566633632/Manrope-Semibold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap
+}
+
+@font-face {
+    font-family: 'Manrop';
+    src: url('https://static.tildacdn.com/tild3165-6538-4262-b638-393761373933/Manrope-Bold.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap
+}
+
+@font-face {
+    font-family: 'Manrop';
+    src: url('https://static.tildacdn.com/tild3835-6336-4264-b836-356566376336/Manrope-ExtraBold.woff') format('woff');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap
+}
+
+@font-face {
+    font-family: 'Manrop';
+    src: url('https://static.tildacdn.com/tild6338-3136-4437-b164-663933353433/Manrope-Bold.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap
+}
+
 div.l-main-container, div.l-popup-container, .b-roomitem__field--label, div.l-content-container {
     background-color: #eaeae9 !important;
     border: 0 !important;        /* = border: none */
